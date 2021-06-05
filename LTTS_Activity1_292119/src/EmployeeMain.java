@@ -2,7 +2,8 @@
 /**
  * @author Velampudi Rohit
  * @SFID 292119
- *
+ * @Question 1
+ * @Activity 1
  */
 import java.util.Scanner;
 class Employee {
