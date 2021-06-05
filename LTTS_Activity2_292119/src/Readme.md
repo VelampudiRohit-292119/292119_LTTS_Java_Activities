@@ -1,0 +1,1 @@
+- All solution codes of Activity 2 are here.
