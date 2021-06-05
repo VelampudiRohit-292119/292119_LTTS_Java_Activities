@@ -1,7 +1,8 @@
 /**
  * @author Velampudi Rohit
  * @SFID 292119
- *
+ * @Question 3
+ * @Activity 1
  */
 import java.util.Scanner;
 
