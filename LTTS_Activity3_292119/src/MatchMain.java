@@ -3,7 +3,8 @@ import java.util.Scanner;
 /**
  * @author Velampudi Rohit
  * @SFID 292119
- *
+ * @Question 2
+ * @Activity 3
  */
 abstract class Match{
 	private int currentscore;
